@@ -19,13 +19,13 @@ function Home() {
 
         <div className="achievements">
   <h1>Achievements</h1>
-  <a href="link-to-proof1.pdf" target="_blank" rel="noopener noreferrer" className="achievement-box">
+  <a href="https://ieeexplore.ieee.org/document/10963114" target="_blank" rel="noopener noreferrer" className="achievement-box">
     Conference Research Paper published in IEEE
   </a>
-  <a href="link-to-proof2.jpg" target="_blank" rel="noopener noreferrer" className="achievement-box">
+  <a href="https://www.linkedin.com/posts/tanishq-nigam-27501023b_smart-certificate-activity-7191158578794098689-5Jn7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADufwnkBiPdayCxNjPHgBLEu8ZQ2hfqoSdQ" target="_blank" rel="noopener noreferrer" className="achievement-box">
     First Prize in GK competition hosted by SMART
   </a>
-  <a href="link-to-proof3.png" target="_blank" rel="noopener noreferrer" className="achievement-box">
+  <a className="achievement-box">
     Gold medals and trophies in sports
   </a>
 </div>
