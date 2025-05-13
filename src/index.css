@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -28,7 +28,7 @@ body {
   width: 100%;
   min-height: 100vh;
   position: relative;
-  background: linear-gradient(180deg, #9dcfe5, #7ba5e0, #abbfc5);
+  background: linear-gradient(180deg, #5a8da3, #4a7cc3, #7a9097);
   background-size: 100% 300%;
   background-attachment: fixed;
   transition: background-position 0.2s ease-out;
@@ -53,10 +53,7 @@ a:hover {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  background: linear-gradient(45deg, #000000, #4a4b89);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  color: #000;
 }
 
 button {

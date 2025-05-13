@@ -1,7 +1,7 @@
 /* Projects page layout - column-wise */
 .projects-page {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
     gap: 24px;
     padding: 20px;
     justify-items: center; /* Center each card inside its grid cell */

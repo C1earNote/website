@@ -32,7 +32,7 @@ function Home() {
 
         <div className="contact-card">
             <h1>Contact me</h1>
-            <p><b>E-mail</b>:txanstoragefull27@gmail.com</p>
+            <p><b>E-mail</b>: txanstoragefull27@gmail.com</p>
             <p><b>Phone and Whatsapp</b>:+91 9460213635</p>
             <p><b>Linkedin</b>: <a href="https://www.linkedin.com/in/tanishq-nigam-27501023b/" target="_blank" rel="noopener noreferrer">Here</a></p>
         </div>

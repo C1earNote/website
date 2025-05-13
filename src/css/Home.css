@@ -65,6 +65,7 @@
   font-size: 1.1rem;
   line-height: 1.6;
   margin-bottom: 0.8rem;
+  text-align: left;
 }
 
 /* Responsive adjustments */
@@ -80,14 +81,14 @@
   .more-info h1,
   .achievements h1,
   .contact-card h1 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .home-content p,
   .more-info p,
   .achievements p,
   .contact-card p {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
 
   .sec-cont {
