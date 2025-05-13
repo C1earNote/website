@@ -5,15 +5,15 @@ function Home() {
         <>
         <div className="home-container">
             <div className="home-content">
-                <h1>Tanishq Nigam reporting...</h1>
-                <p>Currently in 4th year, studying Computer Science and Engineering at Kalinga Institute of Industrial Technology. Genuine passion for technology and a knack for solving complex problems. What sets me apart? {'->'} Ability to learn new concepts quickly and adjust seamlessly to different academic and professional settings. Always eager to expand my knowledge and skills, aiming to make a meaningful impact in the world of computer science and engineering.</p>
+                <h1>Hey! I'm Tanishq Nigam</h1>
+                <p>I'm in my 4th year of Computer Science and Engineering at Kalinga Institute of Industrial Technology, always had a genuine passion for technology and a love for solving complex problems. What sets me apart? I learn fast and adapt quickly to new environments whether it’s in the classroom or the real world. I’m always looking to grow, pick up new skills, and make a meaningful impact in the world of tech.</p>
             </div>
         </div>
         <div className="sec-cont">
         <div className="more-info">
             <h1>Some more information about me</h1>
-            <p>Interests: </p>
-            <p>Hobbies: Rogue Coding, Football, Gaming, Gym, Movies and TV shows</p>
+            <p><b>Interests</b>: Building and automating useful tools, Exploring new programming languages and frameworks, Financial tech, Writing blogs and Investing.</p>
+            <p><b>Hobbies</b>: Rogue Coding, Football, Gaming, Gym, Movies and TV shows.</p>
             <p></p>
         </div>
 
@@ -32,8 +32,9 @@ function Home() {
 
         <div className="contact-card">
             <h1>Contact me</h1>
-            <p>E-mail: txanstoragefull27@gmail.com</p>
-            <p>Phone and Whatsapp Number: +91 9460213635</p>
+            <p><b>E-mail</b>:txanstoragefull27@gmail.com</p>
+            <p><b>Phone and Whatsapp</b>:+91 9460213635</p>
+            <p><b>Linkedin</b>: <a href="https://www.linkedin.com/in/tanishq-nigam-27501023b/" target="_blank" rel="noopener noreferrer">Here</a></p>
         </div>
         </div>
         </>

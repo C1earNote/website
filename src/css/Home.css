@@ -60,7 +60,8 @@
 .home-content p,
 .more-info p,
 .achievements p,
-.contact-card p {
+.contact-card p,
+.contact-card a {
   font-size: 1.1rem;
   line-height: 1.6;
   margin-bottom: 0.8rem;

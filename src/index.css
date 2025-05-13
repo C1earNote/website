@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(0, 0, 0, 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -28,7 +28,7 @@ body {
   width: 100%;
   min-height: 100vh;
   position: relative;
-  background: linear-gradient(180deg, #c2e9fb, #a1c4fd, #cfd9df);
+  background: linear-gradient(180deg, #9dcfe5, #7ba5e0, #abbfc5);
   background-size: 100% 300%;
   background-attachment: fixed;
   transition: background-position 0.2s ease-out;
@@ -43,7 +43,7 @@ body {
 
 a {
   font-weight: 500;
-  color: #dbeafe;
+  color: #1d32ab;
   text-decoration: inherit;
 }
 a:hover {
