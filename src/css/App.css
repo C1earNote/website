@@ -1,16 +1,13 @@
 .App {
-  background-color: #4776a5; /* or any color you prefer */
   min-height: 100vh;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  justify-content: center;
 }
 
 .main-content {
   flex: 1;
-  padding: 1rem;
   box-sizing: border-box;
   width: 100%;
   display: flex;

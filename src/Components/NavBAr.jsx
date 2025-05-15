@@ -40,7 +40,7 @@ function NavBar() {
 
       <div ref={menuRef} className={`other-navs ${menuOpen ? "active" : ""}`}>
         <Link to="/" onClick={() => setMenuOpen(false)}>Home</Link>
-        <Link to="/skills" onClick={() => setMenuOpen(false)}>Skills</Link>
+        <Link to="/skills" onClick={() => setMenuOpen(false)}>Tech Stack</Link>
         <Link to="/projects" onClick={() => setMenuOpen(false)}>Projects</Link>
         <Link to="https://tanishqsportfoliovercel.wordpress.com/" onClick={() => setMenuOpen(false)} target="_blank">Blogs</Link>
       </div>

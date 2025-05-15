@@ -28,7 +28,7 @@ body {
   width: 100%;
   min-height: 100vh;
   position: relative;
-  background: linear-gradient(180deg, #5a8da3, #4a7cc3, #7a9097);
+  background: linear-gradient(180deg, #1a1a1a, #0f0f0f, #000000);
   background-size: 100% 300%;
   background-attachment: fixed;
   transition: background-position 0.2s ease-out;
@@ -43,7 +43,7 @@ body {
 
 a {
   font-weight: 500;
-  color: #1d32ab;
+  color: rgb(204, 205, 206);
   text-decoration: inherit;
 }
 a:hover {
@@ -52,8 +52,12 @@ a:hover {
 
 h1 {
   font-size: 3.2em;
-  line-height: 1.1;
-  color: #000;
+  line-height: 1.25;
+  color: rgb(204, 205, 206);
+}
+
+p {
+  color: rgb(204, 205, 206);
 }
 
 button {
