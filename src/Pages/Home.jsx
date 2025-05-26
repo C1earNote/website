@@ -80,8 +80,16 @@ function Home() {
               >
                 <img src="/linkedin.jpg" alt="Linkedin" style={{ width: '40px', height: '40px', borderRadius: '8px' }} />
               </a>
+              <a
+              href="https://www.github.com/C1earNote"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                <img src="/git.png" alt="Github" style={{ width: '40px', height:'40px', borderRadius: '8px'}} />
+              </a>
             </div>
           </div>
+
         </div>
       </div>
     </>
