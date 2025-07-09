@@ -19,7 +19,7 @@ function Home() {
     <>
       <div className="name-box">
         <h1>Tanishq Nigam</h1>
-        <p>React.js Developer | Stock Market Researcher | Problem Solver</p>
+        <p>Fullstack Developer | Stock Market Researcher | Problem Solver</p>
       </div>
 
       <div className="outer">
